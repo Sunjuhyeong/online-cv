@@ -3,190 +3,193 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    education: False # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    name: Sun juhyeong
+    tagline: AI Researcher & Developer
+    avatar: my_profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    xing: alandoe
-    github: sharu725
+    email: munuwazzi@kaist.ac.kr
+    phone: 
+    website: #do not add http://
+    linkedin:
+    xing:
+    github: Sunjuhyeong
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter: 
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
     pdf: http://www.africau.edu/images/default/sample.pdf
 
     languages:
-      - idiom: English
-        level: Native
+      # - idiom: English
+      #   level: Native
 
-      - idiom: French
-        level: Professional
+      # - idiom: French
+      #   level: Professional
 
-      - idiom: Spanish
-        level: Professional
+      # - idiom: Spanish
+      #   level: Professional
 
     interests:
-      - item: Climbing
-        link:
-
-      - item: Snowboarding
-        link:
-
-      - item: Cooking
-        link:
+      - item: Computer Vision 
+      - item: Deep Learning
+      - item: Android App
 
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      I learn interestingly the Machine Learning & Computer Vision 
+      since 2020 Summer KAIST CS496 immersion camp's machine learning and computer vision project.
+      Using computer vision and AI, I want to create value that is helpful to everyone.
+      
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: Undergraduate in Computer Science
+      university: KAIST
+      time: 2018 Feb - 2022 Aug
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+          - GPA: 3.72 / 4.3
+          - CS GPA : 4.08 / 4.3
+          - Dean's List in 2021 Spring
+          - 2021 Odysseus Scholarship Student, KAIST SoC.
+          - 2021 Imdang Scholarship Student, KAIST
+
+        AI Courses:
+          - (CS470) Introduction to Artificial Intelligence
+          - (CS484) Introduction to Computer Vision (A+)
+          - (CS376) Machine Learning (A+)
+          - (CS492(A)) Machine Learning for Computer Vision (A+)
+
+        CS Courses:
+          - (CS204) Discrete Mathematics
+          - (CS206) Data Structure (A+)
+          - (CS220) Programming Principles 
+          - (CS230) System Programming 
+          - (CS311) Computer Organization
+          - (CS330) Operating System
+          - (CS300) Introduction to Algorithms
+          - (CS320) Programming Language (A+)
+          - (CS360) Introduction to Database (A+)
+          - (CS473) Introduction to Social Computing
+          - (CS496) Seminar <Immersion Camp - Intensive Programming and Startup> 
+          - (CS341) Introduction to Network (A+)
+
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Undergraduate research program 
+      time: 2022.01 - 
+      company: KAIST SGVR Lab of Prof.Sung-Eui Yoon, Daejeon 
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+        - Researching Deep Metric Learning.
+        
+    - role: Intern of Lab 
+      time: 2021.09 - 
+      company: KAIST SGVR Lab of Prof.Sung-Eui Yoon, Daejeon 
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+        - Studying Image Retrieval & Deep Metric Learning.   
+
+    - role: Individual Research
+      time: 2021.06 - 2021.08
+      company: KAIST VLLab of Prof.Seunghoon Hong, Daejeon 
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+          - Studying Vision Transformer & Generative model for Implicit Neural Representation. 
+
+    - role: Coding Camp Participant (몰입캠프)
+      time: 2020.07 - 08 
+      company: KAIST School of Computer, Daejeon 
+      details: |
+          - Android Developer
+          - A.I. Developer (with JavaScript)
+
+    - role: Android Developer (Internship)
+      time: 2021.01 - 02
+      company: ETRI, Daejeon
+      details: |
+        I participated in the project about Robot Vision & Human-Robot Interaction. Specifically, I designed the UI/UX for HRI,
+        and design backend for robot's vision information processing. 
+
+    # - role: Below section contains "Extracurricular" experiences! 
+# experiences:
+    - role: Tutor of KAIST EduBridge Program
+      time: 2021.08.24 - 27
+      company: KAIST 과학영재교육원
+ 
+    - role: Tutor of KAIST SW CAMP
+      time: 2021.06.18 - 20 / 11.19 - 21 / 11.26 - 28 
+      company: KAIST 과학영재교육원
+
+    - role: Manager, Student Council of School of Computing, KAIST
+      time: 2019.03 - 2020.12 
+      company: KAIST School of Computing
+
 projects:
     title: Projects
-    intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    # intro: >
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: <a href="https://github.com/Sunjuhyeong/ViTGAN" target="_blank" rel="nofollow">ViTGAN</a>
+        tagline: "Implement the ViTGAN: Training GANs with Vision Transformers, Kwonjoon Lee, et al. All works are written by Pytorch."  
+                  
+      - title: <a href="https://github.com/JumpingCar/JumpingCar" target="_blank" rel="nofollow">JumpingCar</a>
+        tagline: "Using the Neural Network, implement the auto-racing car in arbitrary 2D track. All works are written by Typescript." 
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: <a href="https://github.com/Sunjuhyeong/Camera-Roll-Android-App/tree/face" target="_blank" rel="nofollow">Gallery Search by AI</a>
+        tagline: "Implement searching in android gallery. By Azure's vision & Face API, keyword search and face search for image is implemented. All works are written by Java. "
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      - title: <a href="https://github.com/CS473-studyo/studyo-front" target="_blank" rel="nofollow">Studyo</a>
+        tagline: "Implement a webpage platform that support users to upload lecture note and do Q&A. All works are written by Java."
+      
+      - title: <a href="https://github.com/seo3650/audioStyleTrasnfer_web" target="_blank" rel="nofollow">Voice is all you need!</a>
+        tagline: "Implement a webpage that convert the singer of song by upload the target song & singer's mp3 file.
+                  We use the StarGAN to converting voice. All works are written by Python & Pytorch."
 
 publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+    # title: Publications
+    # intro: |
+    #   You can list your publications in this section. Lorem ipsum dolor sit
+    #   amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+    #   bibendum fringilla a eu lectus.
+    # papers:
+    #   - title: The Art of Computer Programming
+    #     link: "#"
+    #     authors: Donald E. Knuth
+    #     conference: Addison-Wesley, 1968
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+    #   - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+    #     link: "#"
+    #     authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+    #     conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
 
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+    #   - title: A syntax directed compiler for Algol 60
+    #     link: "#"
+    #     authors: Edgar T. Irons
+    #     conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: Java & Android
+        level: 50%
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: Python
+        level: 50%
 
-      - name: Angular
-        level: 98%
+      - name: Pytorch
+        level: 40%
+      
+      - name: C/C++
+        level: 40%
+      
+      - name: matlab
+        level: 30%
 
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: JavaScript (TypeScript)
+        level: 30%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
