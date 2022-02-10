@@ -56,7 +56,7 @@ education:
       details: |
           - GPA: 3.78 / 4.3
           - CS GPA : 4.08 / 4.3
-          - Dean's List in 2021 Spring
+          - Dean's List in 2021 Spring & 2021 Fall
           - 2021 Odysseus Scholarship Student, KAIST SoC.
           - 2021 Imdang Scholarship Student, KAIST
 
@@ -114,12 +114,16 @@ experiences:
         and design backend for robot's vision information processing. 
 
 # experiences:
-    - role: Tutor of KAIST EduBridge Program
-      time: 2021.08.24 - 27
-      company: KAIST 과학영재교육원
- 
+    - role: Assistant at Programming Basics course for Hana Bank 
+      time: 2022.02 - 03
+      company: KAIST SW Education Center
+  
     - role: Tutor of KAIST SW CAMP
       time: 2021.06.18 - 20 / 11.19 - 21 / 11.26 - 28 
+      company: KAIST 과학영재교육원
+
+    - role: Tutor of KAIST EduBridge Program
+      time: 2021.08.24 - 27
       company: KAIST 과학영재교육원
 
     - role: Manager, Student Council of School of Computing, KAIST
