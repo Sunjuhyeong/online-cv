@@ -557,6 +557,7 @@ readers do not read off random characters that represent icons */
 .#{$fa-css-prefix}-js:before { content: fa-content($fa-var-js); }
 .#{$fa-css-prefix}-js-square:before { content: fa-content($fa-var-js-square); }
 .#{$fa-css-prefix}-jsfiddle:before { content: fa-content($fa-var-jsfiddle); }
+.#{$fa-css-prefix}-kaggle:before { content: fa-content($fa-var-kaggle); }
 .#{$fa-css-prefix}-key:before { content: fa-content($fa-var-key); }
 .#{$fa-css-prefix}-keybase:before { content: fa-content($fa-var-keybase); }
 .#{$fa-css-prefix}-keyboard:before { content: fa-content($fa-var-keyboard); }
