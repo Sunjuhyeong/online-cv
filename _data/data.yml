@@ -18,11 +18,12 @@ sidebar:
     linkedin:
     xing:
     github: Sunjuhyeong
+    kaggle: munuwazzi
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
     twitter: 
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
+    stack-overflow: 15681688/seon-juhyeong # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
     pdf: http://www.africau.edu/images/default/sample.pdf
@@ -79,6 +80,13 @@ education:
           - (CS330) Operating System
           - (CS300) Introduction to Algorithms
           - (CS473) Introduction to Social Computing
+
+          Extracurricular:
+          - Kaggle Courses
+            - Pandas
+            - Intro to Game AI and Reinforcement Learning
+            - Intermediate Machine Learning
+
 
 experiences:
     - role: Undergraduate research program (URP) 

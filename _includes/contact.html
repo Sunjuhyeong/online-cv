@@ -85,5 +85,11 @@
     </li>
     {% endif %}
 
+    {% if sidebar.kaggle %}
+    <li class="kaggle"><i class="fas fa-kaggle"></i>
+      <a href="https://kaggle.com/{{ sidebar.kaggle }}" target="_blank">{{ sidebar.kaggle }}</a>
+    </li>
+    {% endif %}
+
   </ul>
 </div><!--//contact-container-->
