@@ -62,10 +62,10 @@ education:
           - 2021 Imdang Scholarship Student, KAIST
 
           AI Courses:
-          - (CS484) Introduction to Computer Vision (A+)
-          - (CS376) Machine Learning (A+)
-          - (CS492(A)) Machine Learning for Computer Vision (A+)
-          - (CS470) Introduction to Artificial Intelligence
+          - (CS484) Introduction to Computer Vision, Prof.Kim Min-hyuk (A+)
+          - (CS492(A)) Machine Learning for Computer Vision,  Prof.Kim Tae-gyun ,(A+)
+          - (CS376) Machine Learning, Prof.Hwang Ji-young (A+)
+          - (CS470) Introduction to Artificial Intelligence, Prof.Hong Seung-hoon
 
           CS Courses:
           - (CS206) Data Structure (A+)
@@ -111,17 +111,16 @@ experiences:
       time: 2020.07 - 08 
       company: KAIST School of Computer, Daejeon 
       details: |
-          - Android Developer
-          - A.I. Developer (with JavaScript)
+          - Android Developer (UI/UX, Backend, AI)
+          - A.I. Developer
 
     - role: Android Developer (Internship)
       time: 2021.01 - 02
       company: ETRI, Daejeon
       details: |
-        I participated in the project about Robot Vision & Human-Robot Interaction. Specifically, I designed the UI/UX for HRI,
-        and design backend for robot's vision information processing. 
+          - Android Developer for the robot vision
+          - UX/UI Designer of Robot Interface
 
-# experiences:
     - role: Assistant at Programming Basics course for Hana Bank 
       time: 2022.02 - 03
       company: KAIST SW Education Center
@@ -184,20 +183,20 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
+      - name: Python
+        level: 60%
+
+      - name: Pytorch
+        level: 50%
+      
       - name: Java & Android
         level: 50%
 
-      - name: Python
-        level: 50%
-
-      - name: Pytorch
-        level: 40%
-      
       - name: C/C++
         level: 40%
       
       - name: matlab
-        level: 30%
+        level: 40%
 
       - name: JavaScript (TypeScript)
         level: 30%
