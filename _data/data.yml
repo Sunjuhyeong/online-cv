@@ -91,6 +91,12 @@ education:
 
 
 experiences:
+    - role: Undergraduate research program (URP)
+      time: 2022.01 - 
+      company: KAIST SGVR Lab of Prof.Sung-Eui Yoon, Daejeon 
+      details: |
+          - Researching Deep Metric Learning.
+
     - role: Android Developer (Internship)
       time: 2021.01 - 02
       company: ETRI Human-Robot Interaction Lab of Dr.Hosub Yoon, Daejeon
@@ -106,12 +112,6 @@ experiences:
           - Android Developer (UI/UX, Backend, AI)
           - Game A.I. & Reinforcement Learning
           - Image Search App via Azure API
-
-    - role: Undergraduate research program (URP)
-      time: 2022.01 - 
-      company: KAIST SGVR Lab of Prof.Sung-Eui Yoon, Daejeon 
-      details: |
-          - Researching Deep Metric Learning.
         
     - role: Intern of Lab 
       time: 2021.09 - 
@@ -146,7 +146,7 @@ projects:
     # intro: >
     assignments:
       - title: <a href="https://github.com/Sunjuhyeong/ViTGAN" target="_blank" rel="nofollow">ViTGAN</a>
-        tagline: "ViTGAN: Training GANs with Vision Transformers, Kwonjoon Lee, et al (Pytorch)"  
+        tagline: "Implementation of ViTGAN: Training GANs with Vision Transformers, Kwonjoon Lee, et al (Pytorch)"  
                   
       - title: <a href="https://github.com/JumpingCar/JumpingCar" target="_blank" rel="nofollow">JumpingCar</a>
         tagline: "Game A.I. & Reinforcement Learning (TypeScript)" 
@@ -192,7 +192,7 @@ skills:
       - name: Pytorch
         level: 50%
 
-      - name: Deep Learning    (Numpy, scikit-learn, etc.)
+      - name: Deep Learning <br>(numpy, scikit-learn, etc.)
         level: 50%
       
       - name: Java & Android
