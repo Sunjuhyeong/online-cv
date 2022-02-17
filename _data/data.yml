@@ -189,7 +189,7 @@ skills:
       - name: Python
         level: 60%
 
-      - name: Pytorch
+      - name: Deep Learning (Pytorch, Numpy, etc.)
         level: 50%
       
       - name: Java & Android
