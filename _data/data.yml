@@ -83,9 +83,12 @@ education:
 
           Extracurricular:
           - Kaggle Courses
+            - Intermediate Machine Learning 
+            - Data Visualization
             - Pandas
             - Intro to Game AI and Reinforcement Learning
-            - Intermediate Machine Learning
+            
+
 
 
 experiences:
