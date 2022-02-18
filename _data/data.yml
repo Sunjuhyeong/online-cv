@@ -46,9 +46,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      I learn interestingly the Machine Learning & Computer Vision 
-      since 2020 Summer KAIST CS496 immersion camp's machine learning and computer vision project.
-      Using computer vision and AI, I want to create value that is helpful to everyone.
+      I'm a researcher & developer who learns and grows. I'm interested in Machine Learning & Computer Vision. Recently, I research Image Retrieval in SGVR Lab of Prof. Sung-eui Yoon.
       
 education:
     - degree: Undergraduate in Computer Science
@@ -90,20 +88,35 @@ education:
             - Intro to Game AI and Reinforcement Learning
             - Pandas
 
-            
 
 experiences:
-    - role: Undergraduate research program (URP) 
+    - role: Undergraduate research program (URP)
       time: 2022.01 - 
       company: KAIST SGVR Lab of Prof.Sung-Eui Yoon, Daejeon 
       details: |
-        - Researching Deep Metric Learning.
+          - Researching Deep Metric Learning.
+
+    - role: Android Developer (Internship)
+      time: 2021.01 - 02
+      company: ETRI Human-Robot Interaction Lab of Dr. Hosub Yoon, Daejeon
+      details: |
+          - Real-time robot vision data processing
+          - Android UX/UI Designer of Robot Interface
+          - Embedded System Engineering
+
+    - role: Coding Camp Participant (KAIST 몰입캠프)
+      time: 2020.07 - 08 
+      company: KAIST School of Computer, Daejeon 
+      details: |
+          - Android Developer (UI/UX, Backend, AI)
+          - Game A.I. & Reinforcement Learning
+          - Image Search App via Azure API
         
     - role: Intern of Lab 
       time: 2021.09 - 
       company: KAIST SGVR Lab of Prof.Sung-Eui Yoon, Daejeon 
       details: |
-        - Studying Image Retrieval & Deep Metric Learning.   
+          - Studying Image Retrieval.   
 
     - role: Individual Research
       time: 2021.06 - 2021.08
@@ -111,23 +124,13 @@ experiences:
       details: |
           - Studying Vision Transformer & Generative model for Implicit Neural Representation. 
 
-    - role: Coding Camp Participant (KAIST 몰입캠프)
-      time: 2020.07 - 08 
-      company: KAIST School of Computer, Daejeon 
-      details: |
-          - Android Developer (UI/UX, Backend, AI)
-          - A.I. Developer
-
-    - role: Android Developer (Internship)
-      time: 2021.01 - 02
-      company: ETRI, Daejeon
-      details: |
-          - Android Developer for the robot vision
-          - UX/UI Designer of Robot Interface
-
     - role: Assistant at Programming Basics course for Hana Bank 
       time: 2022.02 - 03
       company: KAIST SW Education Center
+
+    - role: Manager, Student Council of School of Computing, KAIST
+      time: 2019.03 - 2020.12 
+      company: KAIST School of Computing
   
     - role: Tutor of KAIST SW CAMP
       time: 2021.06.18 - 20 / 11.19 - 21 / 11.26 - 28 
@@ -137,29 +140,24 @@ experiences:
       time: 2021.08.24 - 27
       company: KAIST 과학영재교육원
 
-    - role: Manager, Student Council of School of Computing, KAIST
-      time: 2019.03 - 2020.12 
-      company: KAIST School of Computing
-
 projects:
     title: Projects
     # intro: >
     assignments:
       - title: <a href="https://github.com/Sunjuhyeong/ViTGAN" target="_blank" rel="nofollow">ViTGAN</a>
-        tagline: "Implement the ViTGAN: Training GANs with Vision Transformers, Kwonjoon Lee, et al. All works are written by Pytorch."  
+        tagline: "Implementation of ViTGAN: Training GANs with Vision Transformers, Kwonjoon Lee, et al (Pytorch)"  
                   
       - title: <a href="https://github.com/JumpingCar/JumpingCar" target="_blank" rel="nofollow">JumpingCar</a>
-        tagline: "Using the Neural Network, implement the auto-racing car in arbitrary 2D track. All works are written by Typescript." 
+        tagline: "Game A.I. & Reinforcement Learning (TypeScript)" 
 
       - title: <a href="https://github.com/Sunjuhyeong/Camera-Roll-Android-App/tree/face" target="_blank" rel="nofollow">Gallery Search by AI</a>
-        tagline: "Implement searching in android gallery. By Azure's vision & Face API, keyword search and face search for image is implemented. All works are written by Java. "
+        tagline: "Image Retrieval via Azure's vision & Face API (Android)"
 
       - title: <a href="https://github.com/CS473-studyo/studyo-front" target="_blank" rel="nofollow">Studyo</a>
-        tagline: "Implement a webpage platform that support users to upload lecture note and do Q&A. All works are written by Java."
+        tagline: "Webpage for supporting the class Activity (Java)"
       
       - title: <a href="https://github.com/seo3650/audioStyleTrasnfer_web" target="_blank" rel="nofollow">Voice is all you need!</a>
-        tagline: "Implement a webpage that convert the singer of song by upload the target song & singer's mp3 file.
-                  We use the StarGAN to converting voice. All works are written by Python & Pytorch."
+        tagline: "Webpage for converting singer of songs via StarGAN (Python)"
 
 publications:
     # title: Publications
@@ -189,8 +187,11 @@ skills:
     toolset:
       - name: Python
         level: 60%
-
+      
       - name: Pytorch
+        level: 50%
+
+      - name: Deep Learning <br>(numpy, scikit-learn, etc.)
         level: 50%
       
       - name: Java & Android
