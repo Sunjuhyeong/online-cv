@@ -39,14 +39,16 @@ sidebar:
       #   level: Professional
 
     interests:
-      - item: Computer Vision 
+      - item: Machine Learning
       - item: Deep Learning
+      - item: Computer Vision 
+      - item: Data Science
       - item: Android App
 
 career-profile:
     title: Career Profile
     summary: |
-      I'm a researcher & developer who learns and grows. I'm interested in Machine Learning & Computer Vision. Recently, I research Image Retrieval in SGVR Lab of Prof. Sung-eui Yoon.
+      <big>I am an undergraduate student in the School of Computing at KAIST who is learning and growing.</big> I'm interested in Machine Learning & Computer Vision. Recently, I research Deep Metric Learning in SGVR Lab of Prof. Sung-eui Yoon. 
       
 education:
     - degree: Undergraduate in Computer Science
@@ -55,40 +57,34 @@ education:
       details: |
           - GPA: 3.78 / 4.3
           - CS GPA : 4.08 / 4.3
-          - Dean's List in 2021 Spring & 2021 Fall
+          - Dean's List in 2021 Spring & Fall
           - 2021 Imdang Scholarship Student, KAIST
           - 2021 Odysseus Scholarship Student, KAIST SoC.
-          - 2022 KAIST 독서왕 장려상 (개인부문), KAIST 독서문화위원회
+          - 2022 KAIST 독서왕 장려상
 
           AI Courses:
-          - (CS376) Machine Learning, Ji-young Hwang (A+)
-          - (CS484) Introduction to Computer Vision, Min-hyuk Kim (A+)
-          - (CS492(A)) Machine Learning for Computer Vision, Tae-gyun Kim,(A+)
-          - (CS470) Introduction to Artificial Intelligence, Seung-hoon Hong
+          - (CS376) Machine Learning, Prof. Ji-young Hwang (A+)
+          - (CS484) Introduction to Computer Vision, Prof. Min-hyuk Kim (A+)
+          - (CS492(A)) Machine Learning for Computer Vision, Prof. Tae-gyun Kim,(A+)
+          - (CS470) Introduction to Artificial Intelligence, Prof. Seung-hoon Hong (A0)
 
           CS Courses:
-          - (CS206) Data Structure (A+)
-          - (CS320) Programming Language (A+)
-          - (CS360) Introduction to Database (A+)
-          - (CS341) Introduction to Network (A+)
-          - (CS496) Seminar <Immersion Camp - Intensive Programming and Startup> 
           - (CS204) Discrete Mathematics
+          - (CS206) Data Structure
           - (CS220) Programming Principles 
           - (CS230) System Programming 
-          - (CS311) Computer Organization
-          - (CS330) Operating System
           - (CS300) Introduction to Algorithms
+          - (CS311) Computer Organization
+          - (CS320) Programming Language
+          - (CS330) Operating System
+          - (CS341) Introduction to Network
+          - (CS360) Introduction to Database
           - (CS473) Introduction to Social Computing
+          - (CS496) Seminar <Immersion Camp - Intensive Programming and Startup> 
 
           Extracurricular:
-          - Kaggle Courses
-            - Data Cleaning
-            - Data Visualization
-            - Intermediate Machine Learning 
-            - Intro to AI Ethics
-            - Intro to Game AI and Reinforcement Learning
-            - Machine Learning Explainability
-            - Pandas
+          - Kaggle Courses (Data visualization, Pandas, XAI, etc.)
+          - Clean Code by Robert C. Martin
 
 
 experiences:
@@ -129,10 +125,6 @@ experiences:
     - role: Assistant at Programming Basics course for Hana Bank 
       time: 2022.02 - 03
       company: KAIST SW Education Center
-
-    - role: Manager, Student Council of School of Computing, KAIST
-      time: 2019.03 - 2020.12 
-      company: KAIST School of Computing
   
     - role: Tutor of KAIST SW CAMP
       time: 2021.06.18 - 20 / 11.19 - 21 / 11.26 - 28 
@@ -141,6 +133,10 @@ experiences:
     - role: Tutor of KAIST EduBridge Program
       time: 2021.08.24 - 27
       company: KAIST 과학영재교육원
+      
+    - role: Manager, Student Council of School of Computing, KAIST
+      time: 2019.03 - 2020.12 
+      company: KAIST School of Computing
 
 projects:
     title: Projects
