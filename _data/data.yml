@@ -144,18 +144,19 @@ projects:
     assignments:
       - title: <a href="https://github.com/Sunjuhyeong/ViTGAN" target="_blank" rel="nofollow">ViTGAN</a>
         tagline: "Implementation of ViTGAN: Training GANs with Vision Transformers, Kwonjoon Lee, et al (Pytorch)"  
-                  
-      - title: <a href="https://github.com/JumpingCar/JumpingCar" target="_blank" rel="nofollow">JumpingCar</a>
-        tagline: "Game A.I. & Reinforcement Learning (TypeScript)" 
 
-      - title: <a href="https://github.com/Sunjuhyeong/Camera-Roll-Android-App/tree/face" target="_blank" rel="nofollow">Gallery Search by AI</a>
-        tagline: "Image Retrieval via Azure's vision & Face API (Android)"
-
-      - title: <a href="https://github.com/CS473-studyo/studyo-front" target="_blank" rel="nofollow">Studyo</a>
-        tagline: "Webpage for supporting the class Activity (Java)"
-      
       - title: <a href="https://github.com/seo3650/audioStyleTrasnfer_web" target="_blank" rel="nofollow">Voice is all you need!</a>
         tagline: "Webpage for converting singer of songs via StarGAN (Python)"
+                  
+      - title: <a href="https://github.com/JumpingCar/JumpingCar" target="_blank" rel="nofollow">JumpingCar</a>
+        tagline: "Toy project about Game A.I. & Reinforcement Learning (TypeScript)" 
+
+      - title: <a href="https://github.com/Sunjuhyeong/Camera-Roll-Android-App/tree/face" target="_blank" rel="nofollow">Gallery Search by AI</a>
+        tagline: "Image Retrieval App via Azure's vision & Face API (Android)"
+
+      - title: <a href="https://github.com/CS473-studyo/studyo-front" target="_blank" rel="nofollow">Studyo</a>
+        tagline: "Webpage for supporting the class Activity (JavaScript)"
+      
 
 publications:
     # title: Publications
@@ -184,13 +185,13 @@ skills:
 
     toolset:
       - name: Python
-        level: 60%
+        level: 50%
       
       - name: Pytorch
-        level: 50%
+        level: 40%
 
       - name: Deep Learning <br>(numpy, scikit-learn, etc.)
-        level: 50%
+        level: 40%
       
       - name: Java & Android
         level: 50%
@@ -199,7 +200,7 @@ skills:
         level: 40%
       
       - name: matlab
-        level: 40%
+        level: 30%
 
       - name: JavaScript (TypeScript)
         level: 30%
