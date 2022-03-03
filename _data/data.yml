@@ -151,7 +151,7 @@ projects:
       - title: <a href="https://github.com/JumpingCar/JumpingCar" target="_blank" rel="nofollow">JumpingCar</a>
         tagline: "Toy project about Game A.I. & Reinforcement Learning (TypeScript)" 
 
-      - title: <a href="https://github.com/Sunjuhyeong/Camera-Roll-Android-App/tree/face" target="_blank" rel="nofollow">Gallery Search by AI</a>
+      - title: <a href="https://github.com/Sunjuhyeong/Camera-Roll-Android-App/tree/face" target="_blank" rel="nofollow">Searchable Gallery</a>
         tagline: "Image Retrieval App via Azure's vision & Face API (Android)"
 
       - title: <a href="https://github.com/CS473-studyo/studyo-front" target="_blank" rel="nofollow">Studyo</a>
