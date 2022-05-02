@@ -70,23 +70,21 @@ education:
           - (CS470) Introduction to Artificial Intelligence, Prof. Seung-hoon Hong (A0)
 
           CS Courses:
-          - (CS204) Discrete Mathematics
-          - (CS206) Data Structure
+          - (CS204) Discrete Mathematics (A0)
+          - (CS206) Data Structure (A+)
           - (CS220) Programming Principles 
           - (CS230) System Programming 
-          - (CS300) Introduction to Algorithms
-          - (CS311) Computer Organization
-          - (CS320) Programming Language
-          - (CS330) Operating System
-          - (CS341) Introduction to Network
-          - (CS360) Introduction to Database
-          - (CS473) Introduction to Social Computing
+          - (CS300) Introduction to Algorithms (A0)
+          - (CS311) Computer Organization 
+          - (CS320) Programming Language (A+)
+          - (CS330) Operating System (A0)
+          - (CS341) Introduction to Network (A+)
+          - (CS360) Introduction to Database (A+)
+          - (CS473) Introduction to Social Computing (A0) 
           - (CS496) Seminar <Immersion Camp - Intensive Programming and Startup> 
 
           Extracurricular:
           - Kaggle Courses (Data visualization, Pandas, XAI, etc.)
-          - Clean Code by Robert C. Martin
-          - Deep Learning From Scratch by Saito Goki
 
 experiences:
     - role: Undergraduate research program (URP)
@@ -95,23 +93,15 @@ experiences:
       details: |
           - Researching Deep Metric Learning.
 
-    - role: Android Developer (Internship)
+    - role: Research Internship
       time: 2021.01 - 02
       company: ETRI Human-Robot Interaction Lab of Dr. Hosub Yoon, Daejeon
       details: |
           - Real-time robot vision data processing
           - Android UX/UI Designer of Robot Interface
           - Embedded System Engineering
-
-    - role: Coding Camp Participant (KAIST 몰입캠프)
-      time: 2020.07 - 08 
-      company: KAIST School of Computer, Daejeon 
-      details: |
-          - Android Developer (UI/UX, Backend, AI)
-          - Game A.I. & Reinforcement Learning
-          - Image Search App via Azure API
         
-    - role: Intern of Lab 
+    - role: Reserach Internship  
       time: 2021.09 - 
       company: KAIST SGVR Lab of Prof.Sung-Eui Yoon, Daejeon 
       details: |
@@ -122,6 +112,14 @@ experiences:
       company: KAIST VLLab of Prof.Seunghoon Hong, Daejeon 
       details: |
           - Studying Vision Transformer & Generative model for Implicit Neural Representation. 
+
+    - role: Coding Camp Participant (KAIST 몰입캠프)
+      time: 2020.07 - 08 
+      company: KAIST School of Computer, Daejeon 
+      details: |
+          - Android Developer (UI/UX, Backend, AI)
+          - Game A.I. & Reinforcement Learning
+          - Image Search App via Azure API
 
     - role: Assistant at Programming Basics course for Hana Bank 
       time: 2022.02 - 03
@@ -171,40 +169,13 @@ publications:
     #     authors: Donald E. Knuth
     #     conference: Addison-Wesley, 1968
 
-    #   - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-    #     link: "#"
-    #     authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-    #     conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-    #   - title: A syntax directed compiler for Algol 60
-    #     link: "#"
-    #     authors: Edgar T. Irons
-    #     conference: "Comm. ACM 4 (1961), 51–55"
-
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python
-        level: 50%
+      - name: Fluent - Python, Pytorch, Java (Android)
       
-      - name: Pytorch
-        level: 40%
-
-      - name: Deep Learning <br>(numpy, scikit-learn, etc.)
-        level: 40%
-      
-      - name: Java & Android
-        level: 50%
-
-      - name: C/C++
-        level: 40%
-      
-      - name: matlab
-        level: 30%
-
-      - name: JavaScript (TypeScript)
-        level: 30%
+      - name: Experienced - C/C++, matlab, JavaScript 
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
