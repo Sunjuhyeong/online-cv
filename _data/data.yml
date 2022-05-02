@@ -170,12 +170,12 @@ publications:
     #     conference: Addison-Wesley, 1968
 
 skills:
-    title: Skills &amp; Proficiency
+    title: Skills
 
-    toolset:
-      - name: Fluent - Python, Pytorch, Java (Android)
+    assignments:
+      - title: Fluent - Python, Pytorch, Java (Android)
       
-      - name: Experienced - C/C++, matlab, JavaScript 
+      - title: Experienced - C/C++, matlab, JavaScript 
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
