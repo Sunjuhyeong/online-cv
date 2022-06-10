@@ -86,9 +86,23 @@ education:
           Extracurricular:
           - Kaggle Courses (Data visualization, Pandas, XAI, etc.)
 
+
+publications:
+    title: Publications
+    # intro: |
+      # You can list your publications in this section. Lorem ipsum dolor sit
+      # amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+      # bibendum fringilla a eu lectus.
+    papers:
+      - title: Empirical Analysis of the Effects of Image Backgrounds in Deep Metric Learning
+        # link: "#"
+        authors: Ju-Hyeong Seon, Guoyuan An, Sung-Eui Yoon
+        conference: KCC 2022
+
+
 experiences:
     - role: Undergraduate research program (URP)
-      time: 2022.01 - 
+      time: 2022.01 - 06
       company: KAIST SGVR Lab of Prof.Sung-Eui Yoon, Daejeon 
       details: |
           - Researching Deep Metric Learning.
@@ -156,19 +170,6 @@ projects:
       - title: <a href="https://github.com/CS473-studyo/studyo-front" target="_blank" rel="nofollow">Studyo</a>
         tagline: "Webpage for supporting the class Activity (JavaScript)"
       
-
-publications:
-    # title: Publications
-    # intro: |
-    #   You can list your publications in this section. Lorem ipsum dolor sit
-    #   amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-    #   bibendum fringilla a eu lectus.
-    # papers:
-    #   - title: The Art of Computer Programming
-    #     link: "#"
-    #     authors: Donald E. Knuth
-    #     conference: Addison-Wesley, 1968
-
 skills:
     title: Skills
 
