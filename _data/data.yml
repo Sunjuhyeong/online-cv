@@ -55,13 +55,19 @@ education:
       university: KAIST
       time: 2018 Feb - 2022 Aug
       details: |
-          - GPA: 3.78 / 4.3
-          - CS GPA : 4.08 / 4.3
           - Dean's List in 2021 Spring
           - Dean's List in 2021 Fall
           - 2021 Imdang Scholarship Student, KAIST
           - 2021 Odysseus Scholarship Student, KAIST SoC.
-          - 2022 KAIST 독서왕 장려상
+          - GPA: 3.78 / 4.3
+          - CS GPA : 4.08 / 4.3
+
+    - degree: M.S. in Computer Science
+      university: KAIST
+      time: 2022 Aug - 2024 Aug
+      details: |
+          - GPA: 4.3 / 4.3
+
 
 publications:
     title: Publications
@@ -97,11 +103,11 @@ experiences:
       details: |
           - Studying Image Retrieval.   
 
-    - role: Individual Research
-      time: 2021.06 - 2021.08
-      company: KAIST VLLab of Prof.Seunghoon Hong, Daejeon 
-      details: |
-          - Studying Vision Transformer & Generative model for Implicit Neural Representation. 
+    # - role: Individual Research
+    #   time: 2021.06 - 2021.08
+    #   company: KAIST VLLab of Prof.Seunghoon Hong, Daejeon 
+    #   details: |
+    #       - Studying Vision Transformer & Generative model for Implicit Neural Representation. 
 
     - role: Coding Camp Participant (KAIST 몰입캠프)
       time: 2020.07 - 08 
