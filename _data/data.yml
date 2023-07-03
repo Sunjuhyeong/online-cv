@@ -63,30 +63,6 @@ education:
           - 2021 Odysseus Scholarship Student, KAIST SoC.
           - 2022 KAIST 독서왕 장려상
 
-          AI Courses:
-          - (CS376) Machine Learning, Prof. Ji-young Hwang (A+)
-          - (CS484) Introduction to Computer Vision, Prof. Min-hyuk Kim (A+)
-          - (CS492(A)) Machine Learning for Computer Vision, Prof. Tae-gyun Kim,(A+)
-          - (CS470) Introduction to Artificial Intelligence, Prof. Seung-hoon Hong (A0)
-
-          CS Courses:
-          - (CS204) Discrete Mathematics (A0)
-          - (CS206) Data Structure (A+)
-          - (CS220) Programming Principles 
-          - (CS230) System Programming 
-          - (CS300) Introduction to Algorithms (A0)
-          - (CS311) Computer Organization 
-          - (CS320) Programming Language (A+)
-          - (CS330) Operating System (A0)
-          - (CS341) Introduction to Network (A+)
-          - (CS360) Introduction to Database (A+)
-          - (CS473) Introduction to Social Computing (A0) 
-          - (CS496) Seminar <Immersion Camp - Intensive Programming and Startup> 
-
-          Extracurricular:
-          - Kaggle Courses (Data visualization, Pandas, XAI, etc.)
-
-
 publications:
     title: Publications
     # intro: |
@@ -170,13 +146,13 @@ projects:
       - title: <a href="https://github.com/CS473-studyo/studyo-front" target="_blank" rel="nofollow">Studyo</a>
         tagline: "Webpage for supporting the class Activity (JavaScript)"
       
-skills:
-    title: Skills
+# skills:
+#     title: Skills
 
-    toolset:
-      - name: Fluent - Python, Pytorch, Java (Android)
+#     toolset:
+#       - name: Fluent - Python, Pytorch, Java (Android)
       
-      - name: Experienced - C/C++, matlab, JavaScript 
+#       - name: Experienced - C/C++, matlab, JavaScript 
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
