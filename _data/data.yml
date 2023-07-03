@@ -13,6 +13,7 @@ sidebar:
 
     # Sidebar links
     email: munuwazzi@kaist.ac.kr
+    email: munuwazzi@gmail.com
     phone: 
     website: #do not add http://
     linkedin:
@@ -39,16 +40,15 @@ sidebar:
       #   level: Professional
 
     interests:
-      - item: Machine Learning
+      - item: Audio-Visual Learning
+      - item: Computer Vision
       - item: Deep Learning
-      - item: Computer Vision 
-      - item: Data Science
       - item: Android App
 
 career-profile:
     title: Career Profile
     summary: |
-      <big>I am an undergraduate student in the School of Computing at KAIST who is learning and growing. I'm interested in Machine Learning & Computer Vision. Recently, I research Deep Metric Learning in SGVR Lab of Prof. Sung-eui Yoon. </big>
+      <big>I am an M.S. student in computer science highly interested in audio-visual learning. Currently, my research aims to localize the sound source on the video with multi-modal embedding. </big>
       
 education:
     - degree: Undergraduate in Computer Science
