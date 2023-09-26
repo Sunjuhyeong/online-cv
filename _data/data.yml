@@ -44,6 +44,11 @@ career-profile:
       <big>I am an M.S. student in computer science highly interested in audio-visual learning. Currently, my research aims to localize the sound source on the video with multi-modal embedding. </big>
       
 education:
+    - degree: M.S. in Computer Science
+      university: KAIST
+      time: 2022 Aug - 2024 Aug
+      details: |
+
     - degree: Undergraduate in Computer Science
       university: KAIST
       time: 2018 Feb - 2022 Aug
@@ -52,11 +57,6 @@ education:
           - Dean's List in 2021 Fall
           - 2021 Imdang Scholarship Student, KAIST
           - 2021 Odysseus Scholarship Student, KAIST SoC.
-          
-    - degree: M.S. in Computer Science
-      university: KAIST
-      time: 2022 Aug - 2024 Aug
-      details: |
           
 
 publications:
@@ -70,17 +70,14 @@ publications:
         # link: "#"
         authors: Guoyuan An, Ju-hyeong Seon, Inkyu An, Yuchi Huo, Sung-Eui Yoon
         conference: NeurIPS 2023
-    papers:
+
       - title: Class-Aware Contrastive Learning for Improving Performance of Sound Source Localization Model in Videos
-        # link: "#"
         authors: Ju-hyeong Seon, Jaeyoon Kim, Joo Young Kim, Young Joo Lee, Hyekyung Han, Sung-Eui Yoon
         conference: KTCP 2023
-    papers:
+        
       - title: Empirical Analysis of the Effects of Image Backgrounds in Deep Metric Learning (Outstanding paper in undergraduate)
-        # link: "#"
         authors: Ju-Hyeong Seon, Guoyuan An, Sung-Eui Yoon
         conference: KCC 2022
-
 
 
 experiences:
