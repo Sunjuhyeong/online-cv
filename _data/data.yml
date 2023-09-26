@@ -74,7 +74,7 @@ publications:
       - title: Class-Aware Contrastive Learning for Improving Performance of Sound Source Localization Model in Videos
         authors: Ju-hyeong Seon, Jaeyoon Kim, Joo Young Kim, Young Joo Lee, Hyekyung Han, Sung-Eui Yoon
         conference: KTCP 2023
-        
+
       - title: Empirical Analysis of the Effects of Image Backgrounds in Deep Metric Learning (Outstanding paper in undergraduate)
         authors: Ju-Hyeong Seon, Guoyuan An, Sung-Eui Yoon
         conference: KCC 2022
@@ -130,5 +130,5 @@ experiences:
       
 #       - name: Experienced - C/C++, matlab, JavaScript 
 
-footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+# footer: >
+#     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
