@@ -31,29 +31,31 @@ sidebar:
 
     languages:
 
-
     interests:
       - item: Audio-Visual Learning
       - item: Computer Vision
       - item: Deep Learning
-      - item: Android App
+      - item: Android
 
 career-profile:
     title: Career Profile
     summary: |
-      <big>I am an M.S. student in computer science highly interested in audio-visual learning. Currently, my research aims to localize the sound source on the video with multi-modal embedding. </big>
+      <big>I am an M.S. student in computer science highly interested in audio-visual learning. Currently, my research aims to localize the sound source on the video. </big>
       
 education:
     - degree: M.S. in Computer Science
       university: KAIST
       time: 2022 Aug - 
       details: |
+        - Advisor: Prof. Sung-Eui Yoon
+        - OK Bae Jeong Scholarship Student
 
     - degree: Undergraduate in Computer Science
       university: KAIST
       time: 2018 Feb - 2022 Aug
       details: |
-          - Dean's List in 2021 Spring, Fall
+          - Dean's List in 2021 Spring
+          - Dean's List in 2021 Fall
           - KAIST Imdang Scholarship Student in 2021
           - KAIST SoC. Odysseus Scholarship Student
           
@@ -80,6 +82,14 @@ publications:
 
 
 experiences:
+    - role: Research Internship
+      time: 2021.01 - 02
+      company: ETRI Human-Robot Interaction Lab of Dr. Hosub Yoon, Daejeon
+      details: |
+          - Real-time robot vision data processing
+          - Android UX/UI Designer of Robot Interface
+          - Embedded System Engineering
+
     - role: Teaching Assistant (Discrete Mathematics)  
       time: 2023.02 - 06
       company: KAIST SW Education Center
@@ -88,19 +98,11 @@ experiences:
       time: 2022.02 - 03
       company: KAIST SW Education Center
 
-    - role: Reserach Internship  
-      time: 2021.09 - 2022.06
-      company: KAIST SGVR Lab of Prof.Sung-Eui Yoon, Daejeon 
-      details: |
-          - Studying Image Retrieval and Deep Metric Leanring.   
-
-    - role: Research Internship
-      time: 2021.01 - 02
-      company: ETRI Human-Robot Interaction Lab of Dr. Hosub Yoon, Daejeon
-      details: |
-          - Real-time robot vision data processing
-          - Android UX/UI Designer of Robot Interface
-          - Embedded System Engineering
+    # - role: Reserach Internship  
+    #   time: 2021.09 - 2022.06
+    #   company: KAIST SGVR Lab of Prof.Sung-Eui Yoon, Daejeon 
+    #   details: |
+    #       - Studying Image Retrieval and Deep Metric Leanring.   
 
 # projects:
 #     title: Projects
