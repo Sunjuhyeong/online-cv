@@ -58,7 +58,6 @@ education:
           - Dean's List in 2021 Fall
           - KAIST Imdang Scholarship Student in 2021
           - KAIST SoC. Odysseus Scholarship Student
-          
 
 publications:
     title: Publications
@@ -67,21 +66,38 @@ publications:
       # amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
       # bibendum fringilla a eu lectus.
     papers:
+      - title: Extending Segment Anything Model into Auditory and Temporal Dimensions for Audio-Visual Segmentation (under review)
+        # link: "#"
+        authors: Juhyeong Seon, Woobin Im, Sebin Lee, Jumin Lee, and Sung-Eui Yoon.
+        conference: CVPR 2024
+      
+      - title: SemCity - Semantic Scene Generation with Triplane Diffusion
+        # link: "#"
+        authors: Jumin Lee*, Sebin Lee*, Changho Jo, Woobin Im, Juhyeong Seon, and Sung-Eui Yoon.
+        conference: CVPR 2024
+
       - title: Topological verification for image retrieval without fine-tuning
         # link: "#"
-        authors: Guoyuan An, Ju-hyeong Seon, Inkyu An, Yuchi Huo, Sung-Eui Yoon
+        authors: Guoyuan An, Juhyeong Seon, Inkyu An, Yuchi Huo, and Sung-Eui Yoon
         conference: NeurIPS 2023
 
       - title: Class-Aware Contrastive Learning for Improving Performance of Sound Source Localization Model in Videos
-        authors: Ju-hyeong Seon, Jaeyoon Kim, Joo Young Kim, Young Joo Lee, Hyekyung Han, Sung-Eui Yoon
+        authors: Ju-hyeong Seon, Jaeyoon Kim, Joo Young Kim, Young Joo Lee, Hyekyung Han, and Sung-Eui Yoon
         conference: KTCP 2023
 
       - title: Empirical Analysis of the Effects of Image Backgrounds in Deep Metric Learning (Outstanding paper in undergraduate)
-        authors: Ju-Hyeong Seon, Guoyuan An, Sung-Eui Yoon
+        authors: Ju-hyeong Seon, Guoyuan An, and Sung-Eui Yoon
         conference: KCC 2022
 
 
 experiences:
+    - role: Research Internship
+      time: 2021.09 - 2022.08
+      company: KAIST SoC, SGVR Lab, Daejeon
+      details: |
+          - Deep Metric Learning
+          - Image Retrieval
+
     - role: Research Internship
       time: 2021.01 - 02
       company: ETRI Human-Robot Interaction Lab, Daejeon
