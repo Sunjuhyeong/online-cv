@@ -70,7 +70,7 @@ publications:
       - title: Extending Segment Anything Model into Auditory and Temporal Dimensions for Audio-Visual Segmentation (under review)
         # link: "#"
         authors: Juhyeong Seon, Woobin Im, Sebin Lee, Jumin Lee, and Sung-Eui Yoon.
-        conference: ICIP 2024
+        # conference: ICIP 2024
       
       - title: SemCity - Semantic Scene Generation with Triplane Diffusion
         # link: "#"
