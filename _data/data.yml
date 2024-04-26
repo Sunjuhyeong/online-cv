@@ -40,7 +40,10 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      <big>I am an M.S. student in computer science highly interested in image retreival and audio-visual learning. Currently, my research aims to localize the sound source on the video with spatial audio, but not restricted. </big>
+      <big>Hello, I am Juhyeong Seon (선주형) and an master program student in School of Computing, KAIST.
+      I also received my undergraduate degree from School of Computing, KAIST.
+      I'm highly interested in the research field of computer vision, audio processing, image retrieval, and audio-visual learning.
+      Currently, my research aims to localize the sound source on the video, but not restricted. </big>
       
 education:
     - degree: M.S. in Computer Science
