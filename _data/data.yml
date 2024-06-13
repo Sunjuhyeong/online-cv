@@ -74,17 +74,17 @@ publications:
       # bibendum fringilla a eu lectus.
     papers:
       - title: Extending Segment Anything Model into Auditory and Temporal Dimensions for Audio-Visual Segmentation
-        # link: "#"
+        # link: "https://arxiv.org/abs/2406.06163"
         authors: Juhyeong Seon, Woobin Im, Sebin Lee, Jumin Lee, and Sung-Eui Yoon.
         conference: ICIP 2024 
       
       - title: SemCity - Semantic Scene Generation with Triplane Diffusion
-        # link: "#"
+        link: "https://sglab.kaist.ac.kr/SemCity/"
         authors: Jumin Lee*, Sebin Lee*, Changho Jo, Woobin Im, Juhyeong Seon, and Sung-Eui Yoon.
         conference: CVPR 2024
 
       - title: Topological verification for image retrieval without fine-tuning
-        # link: "#"
+        link: "https://arxiv.org/abs/2310.06486"
         authors: Guoyuan An, Juhyeong Seon, Inkyu An, Yuchi Huo, and Sung-Eui Yoon
         conference: NeurIPS 2023
 
