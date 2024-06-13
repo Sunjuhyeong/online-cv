@@ -74,7 +74,7 @@ publications:
       # bibendum fringilla a eu lectus.
     papers:
       - title: Extending Segment Anything Model into Auditory and Temporal Dimensions for Audio-Visual Segmentation
-        # link: "https://arxiv.org/abs/2406.06163"
+        link: "https://arxiv.org/abs/2406.06163"
         authors: Juhyeong Seon, Woobin Im, Sebin Lee, Jumin Lee, and Sung-Eui Yoon.
         conference: ICIP 2024 
       
