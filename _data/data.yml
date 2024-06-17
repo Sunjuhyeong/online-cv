@@ -83,7 +83,7 @@ publications:
         authors: Jumin Lee*, Sebin Lee*, Changho Jo, Woobin Im, Juhyeong Seon, and Sung-Eui Yoon.
         conference: CVPR 2024
 
-      - title: Topological verification for image retrieval without fine-tuning
+      - title: Topological Verification for Image Retrieval without Fine-tuning
         link: "https://arxiv.org/abs/2310.06486"
         authors: Guoyuan An, Juhyeong Seon, Inkyu An, Yuchi Huo, and Sung-Eui Yoon
         conference: NeurIPS 2023
