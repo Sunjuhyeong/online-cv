@@ -73,6 +73,11 @@ publications:
       # amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
       # bibendum fringilla a eu lectus.
     papers:
+      - title: Regularizing Dynamic Radiance Fields with Kinematic Fields
+        # link: ""
+        authors: Woobin Im, Geonho Cha, Sebin Lee, Juhyeong Seon, Jumin Lee, Dongyoon Wee, and Sung-Eui Yoon.
+        conference: ECCV 2024 
+      
       - title: Extending Segment Anything Model into Auditory and Temporal Dimensions for Audio-Visual Segmentation
         link: "https://arxiv.org/abs/2406.06163"
         authors: Juhyeong Seon, Woobin Im, Sebin Lee, Jumin Lee, and Sung-Eui Yoon.
