@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Ju-hyeong Seon
-    tagline: AI Researcher
+    tagline: AI Researcher in Krafton
     avatar: profile1.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -40,10 +40,9 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      <big>Hello, I am Juhyeong Seon (선주형) and an master program student in School of Computing, KAIST.
-      I also received my undergraduate degree from School of Computing, KAIST.
-      I'm highly interested in the research field of computer vision, audio processing, image retrieval, and audio-visual learning.
-      Currently, my research aims to localize the sound source on the video, but not restricted. </big>
+      <big>Hello, I am Juhyeong Seon (선주형) and an AI researcher in Krafton.
+      I received my master and undergraduate degree from School of Computing, KAIST.
+      I'm highly interested in the research field of computer vision and audio processing. </big>
       
 education:
     - degree: M.S. in Computer Science
@@ -103,6 +102,11 @@ publications:
 
 
 experiences:
+    - role: AI Researcher
+      time: 2024.08 - current
+      company: KAIST SoC, SGVR Lab, Daejeon
+      # details: |
+    
     - role: Research Internship
       time: 2021.09 - 2022.08
       company: KAIST SoC, SGVR Lab, Daejeon
